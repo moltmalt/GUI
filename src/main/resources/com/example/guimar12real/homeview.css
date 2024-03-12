@@ -1,0 +1,8 @@
+.root{
+    -fx-background-image: url("cat.png");
+}
+
+.signoutButton{
+    -fx-background-color: blue;
+    -fx-text-fill: white;
+}
